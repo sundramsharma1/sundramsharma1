@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sundram Sharma
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=500&size=35&duration=4000&pause=1000&center=true&width=435&lines=Hi+There+;Myself+Sundram+Sharma)](https://git.io/typing-svg) 
 ======================================================================================================================================
+
 <h4>A Software Engineer | Full Stack Developer </h4>
 
 - 🔭 I’m currently working on a Cyber Security
