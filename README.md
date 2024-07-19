@@ -1,22 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=500&size=35&duration=4000&pause=1000&center=true&width=435&lines=Hi+There+;Myself+Sundram+Sharma)](https://git.io/typing-svg) 
+Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Myself Sundram Sharma
 ======================================================================================================================================
 
-<h4>A Software Engineer | Full Stack Developer </h4>
+<h4 align="center">A Software Engineer | Full Stack Developer </h4>
 
-- 🔭 I’m currently working on a Cyber Security
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology 
-- 📫 How to reach me: sundramsharma12244@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+            - 🔭 I’m currently working on a Cyber Security
+            - 🌱 I’m Interested to work on Web 3.0
+            - 👯 I’m making the world better by PRs 
+            - 💬 Ask me about Technology 
+            - 📫 How to reach me: sundramsharma12244@gmail.com
+            - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
-<a href="https://www.github.com/sundramsharma1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sundramsharma1&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
+<p align="center" ><img src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=sundramsharma1&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /></p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h3 align="left">Languages:</h3>
-<p align="left" style="text-decoration: none;"> 
+<h3 align="center">Languages:</h3>
+<p align="center" style="text-decoration: none;"> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-c%2B%2B-94.png" alt="C++" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-python-94.png" alt="Python" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-javascript-94.png" alt="javascript" width="40" height="40"/> </a> 
@@ -26,8 +25,8 @@ src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=fo
 </p>
 &nbsp;&nbsp;
 
-<h3 align="left">Database:</h3>
-<p align="left"> 
+<h3 align="center">Database:</h3>
+<p align="center"> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-mongo-db-94.png" alt="MongoDB" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-mysql-logo-94.png" alt="MySql" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-oracle-logo-94.png" alt="Oracle" width="40" height="40"/> </a> 
@@ -35,16 +34,16 @@ src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=fo
 </p>
 &nbsp;&nbsp;
 
-<h3 align="left">Frameworks:</h3>
-<p align="left">
+<h3 align="center">Frameworks:</h3>
+<p align="center">
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-react-94.png" alt="ReactJs" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-tailwind-css-94.png" alt="Tailwind" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-bootstrap-logo-94.png" alt="Bootstrap" width="40" height="40"/> </a>
 </P>
 &nbsp;&nbsp;
 
-<h3 align="left">Tools:</h3>
-<p align="left">
+<h3 align="center">Tools:</h3>
+<p align="center">
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-adobe-photoshop-94.png" alt="Photoshop" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-github-94.png" alt="GitHub" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-figma-94.png" alt="Figma" width="40" height="40"/> </a>
@@ -54,17 +53,17 @@ src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=fo
 
 
 
-<h3>My GitHub Stats</h3>
+<h3 align="center">My GitHub Stats</h3>
 
 
 
-<a href="http://www.github.com/sundramsharma1"><img src="https://github-readme-stats.vercel.app/api?username=sundramsharma1&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sundramsharma1's GitHub stats" /></a>
+<a align="center" href="http://www.github.com/sundramsharma1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sundramsharma1&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sundramsharma1's GitHub stats" /></a>
 
-<a href="http://www.github.com/sundramsharma1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sundramsharma1&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a align="center" href="http://www.github.com/sundramsharma1"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sundramsharma1&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
-<a href="https://github.com/sundramsharma1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundramsharma1&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a align="center" href="https://github.com/sundramsharma1" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundramsharma1&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
