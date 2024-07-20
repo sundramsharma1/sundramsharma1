@@ -10,20 +10,25 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 - 📫 How to reach me: sundramsharma12244@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
-  
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
   
-<a href="https://linkedin.com/in/sundram1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sundram1" height="30" width="40" /></a>
-<a href="sundramsharma12244@gmail.com" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/Gmail.png" alt="Gmail" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/sundram1" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/linkedin.png" alt="sundram1" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="sundramsharma12244@gmail.com" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/Gmail.png" alt="Gmail" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/StarkSundram" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/twitter.png" alt="sundram1" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  
+
+<br>
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundramsharma1" alt="sundramsharma1" /></a> </p>
 
 
 <p align="left">
-    <img src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=sundramsharma1&color=0891b2&style=for-the-badge" alt="sundramsharma1" />
+<img src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=sundramsharma1&color=0891b2&style=for-the-badge" alt="sundramsharma1" />
 </p>
 
 
