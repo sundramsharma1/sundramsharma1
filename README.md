@@ -3,8 +3,8 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <h1> A Passionate Software Engineer / Full Stack Developer </h1>
 
-- 🔭 I’m currently working on a Cyber Security
-- 🌱 I’m Interested to work on Web 3.0
+- 🔭 I’m currently working on a ML Project
+- 🌱 I’m Interested to work on Software Development / Full Stack Development / Cyber Analytics
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology 
 - 📫 How to reach me: sundramsharma12244@gmail.com
@@ -31,50 +31,86 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <img src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=sundramsharma1&color=0891b2&style=for-the-badge" alt="sundramsharma1" />
 </p>
 
+- <h3 align="left">Programming Languages  </h3>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  </div>
+
+- <h3 align="left"> Database </h3>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle logo"  />
+  </div>
+
+- <h3 align="left">Web Development</h3>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  </div>
+
+- <h3 align="left">Full Stack (MERN) </h3>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  </div>
+
+- <h3 align="left"> Container </h3>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  </div>
+
+- <h3 align="left"> Version Control Software </h3>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  </div>
+
+- <h3 align="left"> Tools </h3>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
+  </div>
+
+- <h3 align="left"> Operating System </h3>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  </div>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<h3 align="left">Languages:</h3>
-<p align="left" style="text-decoration: none;"> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-c%2B%2B-94.png" alt="C++" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-python-94.png" alt="Python" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-javascript-94.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-java-logo-94.png" alt="Java" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-html-logo-94.png" alt="Html" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-css-logo-94.png" alt="CSS" width="40" height="40"/> </a>
-</p>
-&nbsp;&nbsp;
-
-<h3 align="left">Database:</h3>
-<p align="left"> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-mongo-db-94.png" alt="MongoDB" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-mysql-logo-94.png" alt="MySql" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-oracle-logo-94.png" alt="Oracle" width="40" height="40"/> </a> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-postgresql-94.png" alt="Postgresql" width="40" height="40"/> </a> 
-</p>
-&nbsp;&nbsp;
-
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-react-94.png" alt="ReactJs" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-tailwind-css-94.png" alt="Tailwind" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-bootstrap-logo-94.png" alt="Bootstrap" width="40" height="40"/> </a>
-</P>
-&nbsp;&nbsp;
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-adobe-photoshop-94.png" alt="Photoshop" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-github-94.png" alt="GitHub" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/icons8-figma-94.png" alt="Figma" width="40" height="40"/> </a>
-</p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-
-<h2 align="center">My GitHub Stats</h2>
+<h3 align="center"> My GitHub Stats </h3>
 
 <p align="center">
 <a align="left" href="http://www.github.com/sundramsharma1"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sundramsharma1&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
