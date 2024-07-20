@@ -74,23 +74,23 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 
 
-<h3 align="left">My GitHub Stats</h3>
+<h2 align="center">My GitHub Stats</h2>
 
+<p align="center">
+<a align="left" href="http://www.github.com/sundramsharma1"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sundramsharma1&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
+<p align="center">
+<a  href="http://www.github.com/sundramsharma1"><img  src="https://github-readme-stats.vercel.app/api?username=sundramsharma1&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sundramsharma1's GitHub stats" /></a></p>
 
-<a align="left" href="http://www.github.com/sundramsharma1"><img  src="https://github-readme-stats.vercel.app/api?username=sundramsharma1&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sundramsharma1's GitHub stats" /></a>&nbsp;<a align="left" href="http://www.github.com/sundramsharma1"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sundramsharma1&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
-
-
+<p align="center">
 <a align="left" href="https://github.com/sundramsharma1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundramsharma1&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/sundramsharma1/Manya-One-Oath-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sundramsharma1&repo=Manya-One-Oath-Projects&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sundramsharma1/Simple-Website-Navbar" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sundramsharma1&repo=Simple-Website-Navbar&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/sundramsharma1/sundramsharma1/output/snake.svg" alt="Snake animation" />
+</p>
 
-###
