@@ -16,11 +16,18 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
   
 <a href="https://linkedin.com/in/sundram1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sundram1" height="30" width="40" /></a>
+<a href="sundramsharma12244@gmail.com" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/Gmail.png" alt="Gmail" height="40" width="40" /></a>
 
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundramsharma1" alt="sundramsharma1" /></a> </p>
-<p align="left" ><img src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=sundramsharma1&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /></p>
+
+
+<p align="left">
+    <img src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=sundramsharma1&color=0891b2&style=for-the-badge" alt="sundramsharma1" />
+</p>
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3 align="left">Languages:</h3>
