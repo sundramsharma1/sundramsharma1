@@ -1,7 +1,7 @@
 Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Myself Sundram Sharma
 ======================================================================================================================================
 
-<h4>A Software Engineer | Full Stack Developer </h4>
+<h1> A Passionate Software Engineer / Full Stack Developer </h1>
 
 - 🔭 I’m currently working on a Cyber Security
 - 🌱 I’m Interested to work on Web 3.0
@@ -10,6 +10,15 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 - 📫 How to reach me: sundramsharma12244@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+  
+<a href="https://linkedin.com/in/sundram1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sundram1" height="30" width="40" /></a>
+
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundramsharma1" alt="sundramsharma1" /></a> </p>
 <p align="left" ><img src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sundramsharma1&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /></p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
