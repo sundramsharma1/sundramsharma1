@@ -13,9 +13,9 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sundram1" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/linkedin.png" alt="sundram1" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sundramsharma1/sundramsharma1/blob/master/Contact%20Us" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/Gmail.png" alt="Gmail" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/StarkSundram" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/twitter.png" alt="sundram1" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/sundram1" target="_blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/linkedin.png" alt="sundram1" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sundramsharma1/sundramsharma1/blob/master/Contact%20Us" target="_blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/Gmail.png" alt="Gmail" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/StarkSundram" target="_blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/twitter.png" alt="sundram1" height="50" width="50" /></a>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundramsharma1" alt="sundramsharma1" /></a> </p>
