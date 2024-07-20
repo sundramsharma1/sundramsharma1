@@ -11,22 +11,22 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
 <br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/sundram1" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/linkedin.png" alt="sundram1" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="sundramsharma12244@gmail.com" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/Gmail.png" alt="Gmail" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/StarkSundram" target="blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/twitter.png" alt="sundram1" height="50" width="50" /></a>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundramsharma1" alt="sundramsharma1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundramsharma1" alt="sundramsharma1" /></a> </p>
 
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=sundramsharma1&color=0891b2&style=for-the-badge" alt="sundramsharma1" />
 </p>
 
-- <h3 align="center">Programming Languages  </h3>
-  <div align="center">
+- <h3 align="left">Programming Languages  </h3>
+  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
@@ -36,8 +36,8 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   </div>
 
-- <h3 align="center"> Database </h3>
-  <div align="center">
+- <h3 align="left"> Database </h3>
+  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
@@ -45,8 +45,8 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle logo"  />
   </div>
 
-- <h3 align="center">Web Development</h3>
-  <div align="center">
+- <h3 align="left">Web Development</h3>
+  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
@@ -56,8 +56,8 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   </div>
 
-- <h3 align="center">Full Stack (MERN) </h3>
-  <div align="center">
+- <h3 align="left">Full Stack (MERN) </h3>
+  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
@@ -67,20 +67,20 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   </div>
 
-- <h3 align="center"> Container </h3>
-  <div align="center">
+- <h3 align="left"> Container </h3>
+  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
   </div>
 
-- <h3 align="center"> Version Control Software </h3>
-  <div align="center">
+- <h3 align="left"> Version Control Software </h3>
+  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
   </div>
 
-- <h3 align="center"> Tools </h3>
-  <div align="center">
+- <h3 align="left"> Tools </h3>
+  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
@@ -96,8 +96,8 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
   </div>
 
-- <h3 align="center"> Operating System </h3>
-  <div align="center">
+- <h3 align="left"> Operating System </h3>
+  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
